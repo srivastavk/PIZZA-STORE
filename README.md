@@ -28,14 +28,5 @@ npm install # or yarn
 ```sh
 npm start # or yarn start
 ```
-This will start the development server and open the application in your browser. You can now start exploring the features of the online pizza store.
 
-## Deployment
-To deploy the project to a production environment, you can use Vercel, Netlify or any other provider of your choice.
-
-## Contributing
-If you would like to contribute to this project, please fork the repository and create a pull request with your changes.
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
